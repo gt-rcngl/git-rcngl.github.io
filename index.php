@@ -9,5 +9,8 @@
 <body>
     
     <h2>Hello world</h2>
+    <?php
+        echo "Im in php";
+    ?>
 </body>
 </html>
